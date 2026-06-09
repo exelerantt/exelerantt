@@ -12,6 +12,6 @@
 <a href="https://wakatime.com/@exelerantt">
 	<picture>
 		<source media="(prefers-color-scheme: light)" srcset="https://dervex-readme-stats.vercel.app/api/wakatime?username=exelerantt&theme=dark"/>
-		<img src="https://dervex-readme-stats.vercel.app/api/wakatime?username=exelerantt" width="98.5%"/>
+		<img src="https://dervex-readme-stats.vercel.app/api/wakatime?username=yyy" width="98.5%"/>
 	</picture>
 </a>
