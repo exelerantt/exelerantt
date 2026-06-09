@@ -1,11 +1,11 @@
 <a href="https://dervex.dev/">
 	<picture>
 		<source media="(prefers-color-scheme: light)" srcset="https://dervex-readme-stats.vercel.app/api/top-langs?username=exelerantt&theme=dark"/>
-		<img src="https://dervex-readme-stats.vercel.app/api/top-langs?username=DervexDev" width="49%"/>
+		<img src="https://dervex-readme-stats.vercel.app/api/top-langs?username=exelerantt" width="49%"/>
 	</picture>
     <picture>
     	<source media="(prefers-color-scheme: light)" srcset="https://dervex-readme-stats.vercel.app/api?username=exelerantt&theme=dark"/>
-    	<img src="https://dervex-readme-stats.vercel.app/api?username=DervexDev" width="49%"/>
+    	<img src="https://dervex-readme-stats.vercel.app/api?username=exelerantt" width="49%"/>
     </picture>
 </a>
 
