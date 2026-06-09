@@ -1,16 +1,17 @@
-## Hi there 👋
+<a href="https://dervex.dev/">
+	<picture>
+		<source media="(prefers-color-scheme: light)" srcset="https://dervex-readme-stats.vercel.app/api/top-langs?username=exelerantt&theme=dark"/>
+		<img src="https://dervex-readme-stats.vercel.app/api/top-langs?username=DervexDev" width="49%"/>
+	</picture>
+    <picture>
+    	<source media="(prefers-color-scheme: light)" srcset="https://dervex-readme-stats.vercel.app/api?username=exelerantt&theme=dark"/>
+    	<img src="https://dervex-readme-stats.vercel.app/api?username=DervexDev" width="49%"/>
+    </picture>
+</a>
 
-<!--
-**exelerantt/exelerantt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://wakatime.com/@exelerantt">
+	<picture>
+		<source media="(prefers-color-scheme: light)" srcset="https://dervex-readme-stats.vercel.app/api/wakatime?username=exelerantt&theme=dark"/>
+		<img src="https://dervex-readme-stats.vercel.app/api/wakatime?username=exelerantt" width="98.5%"/>
+	</picture>
+</a>
