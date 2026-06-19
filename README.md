@@ -1,4 +1,4 @@
-<a href="https://dervex.dev/">
+<a href="https://github.com/exelerantt?tab=repositories">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://dervex-readme-stats.vercel.app/api/top-langs?username=exelerantt&theme=dark"/>
 		<img src="https://dervex-readme-stats.vercel.app/api/top-langs?username=exelerantt" width="49%"/>
